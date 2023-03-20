@@ -1,0 +1,5180 @@
+{
+    "results":[
+      {
+        "id": 0,
+        "name": "Alemania",
+        "logo": "de",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              {
+                "code": "DENT001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "DENT002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "DENT003",
+                "id": "2",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "DENT004",
+                "id": "3",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Visita",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Bayer 04 Leverkusen",
+            "kits":[
+                          
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Bayern Múnich",
+            "kits":[
+              {
+                "code": "DEBM001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "DEBM002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "DEBM003",
+                "id": "2",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Alterna",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Borussia Dortmund",
+            "kits":[
+              {
+                "code": "DEBD001",
+                "id": "0",
+                "brand": "puma",
+                "year": "2022/23",
+                "kit": "Alterna",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Borussia Mönchengladbach",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Colonia",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Darmstadt 98",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Eintracht Frankfurt",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Hamburgo",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Hertha Berlín",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Hoffenheim",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Mainz 05",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 12,
+            "name": "RB Leipzig",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Schalke 04",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Stuttgart",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 15,
+            "name": "St. Pauli",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Unión Berlín",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Werder Bremen",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Wolfsburgo",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Arabia Saudita",
+        "logo": "sa",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Al-Ittihad",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Al-Nassr",
+            "kits":[
+              {
+                "code": "SAAN001",
+                "id": "0",
+                "brand": "duneus",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Argelia",
+        "logo": "dz",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Argentina",
+        "logo": "ar",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              {
+                "code": "ARNT001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ARNT002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ARNT003",
+                "id": "2",
+                "brand": "adidas",
+                "year": "2023",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": "(3 estrellas)",
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ARNT004",
+                "id": "3",
+                "brand": "adidas",
+                "year": "2023",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": "(3 estrellas)",
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Boca Juniors",
+            "kits":[
+              {
+                "code": "ARBJ001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Alterna",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Defensa y Justicia",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Estudiantes de la Plata",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Newell's Old Boys",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Racing Club",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 6,
+            "name": "River Plate",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Rosario Central",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 8,
+            "name": "San Lorenzo",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Australia",
+        "logo": "au",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Austria",
+        "logo": "at",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Bélgica",
+        "logo": "be",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              {
+                "code": "BENT001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Anderlecht",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Bolivia",
+        "logo": "bo",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Brasil",
+        "logo": "br",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              {
+                "code": "BRNT001",
+                "id": "0",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Entrenamiento",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "BRNT002",
+                "id": "1",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Entrenamiento",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "BRNT003",
+                "id": "2",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10,11],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "BRNT004",
+                "id": "3",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10,11],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "BRNT005",
+                "id": "4",
+                "brand": "nike",
+                "year": "1998",
+                "kit": "Portero",
+                "version": "Fan",
+                "extra": "Manga Larga",
+                "price": 140,
+                "imgs": [0,1,2,3,4,5],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "América Mineiro",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Atlético Mineiro",
+            "kits":[
+              {
+                "code": "BRAM001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2023/24",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Avaí",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Bahía",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Botafogo",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Ceará",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Chapecoense",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Corinthians",
+            "kits":[
+              {
+                "code": "BRCO001",
+                "id": "0",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "BRCO002",
+                "id": "1",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Cruzeiro",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Flamengo",
+            "kits":[
+              {
+                "code": "BRFL001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "BRFL002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2023",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Fluminense",
+            "kits":[
+              {
+                "code": "BRFU001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2001/02",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Fortaleza",
+            "kits":[
+              {
+                "code": "BRFO001",
+                "id": "0",
+                "brand": "otros",
+                "year": "2023",
+                "kit": "Visita",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Gremio",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Internacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Palmeiras",
+            "kits":[
+              {
+                "code": "BRPA001",
+                "id": "0",
+                "brand": "puma",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "BRPA002",
+                "id": "1",
+                "brand": "puma",
+                "year": "2022",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "BRPA003",
+                "id": "2",
+                "brand": "puma",
+                "year": "2023",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "BRPA004",
+                "id": "3",
+                "brand": "puma",
+                "year": "2023",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Red Bull Bragantino",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Santos",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Sao Paulo",
+            "kits":[
+              {
+                "code": "BRSP001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "BRSP002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2023",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Sport Recife",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Vasco da Gama",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 21,
+            "name": "Santa Cruz",
+            "kits":[
+              {
+                "code": "BRSC001",
+                "id": "0",
+                "brand": "volt sport",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7],
+                "imgExt": "jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Bulgaria",
+        "logo": "bg",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Camerún",
+        "logo": "cm",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Canadá",
+        "logo": "ca",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Cavalry FC",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "CF Montreal",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Forge FC",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Pacific FC",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Toronto FC",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Vancouver Whitecaps",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Catar",
+        "logo": "qa",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Chile",
+        "logo": "cl",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Colo Colo",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Everton",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Palestino",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Universidad Católica",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Universidad de Chile",
+            "kits":[
+              {
+                "code": "CLUC001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2023",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "China",
+        "logo": "cn",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Colombia",
+        "logo": "co",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Atlético Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Comoras",
+        "logo": "km",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Corea del Sur",
+        "logo": "kr",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Costa de Marfil",
+        "logo": "ci",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Costa Rica",
+        "logo": "cr",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Croacia",
+        "logo": "hr",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Dinamo Zagreb",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Hajduk Split",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Dinamarca",
+        "logo": "dk",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Brøndby IF",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Ecuador",
+        "logo": "ec",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Egipto",
+        "logo": "eg",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Escocia",
+        "logo": "gb-sct",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Celtic",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Rangers",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "España",
+        "logo": "es",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              {
+                "code": "ESNT001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESNT002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10,11],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Albacete",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Almería",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Athletic Bilbao",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Atlético de Madrid",
+            "kits":[
+              {
+                "code": "ESAM001",
+                "id": "0",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESAM002",
+                "id": "1",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Entrenamiento",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8.9],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Barcelona",
+            "kits":[
+              {
+                "code": "ESBA001",
+                "id": "0",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Entrenamiento",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESBA002",
+                "id": "1",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Entrenamiento",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESBA003",
+                "id": "2",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESBA004",
+                "id": "3",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESBA005",
+                "id": "4",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Alterna",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Cádiz",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Cartagena",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Celta de Vigo",
+            "kits":[
+              {
+                "code": "ESCE001",
+                "id": "0",
+                "brand": "kappa",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Deportivo Alavés",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Deportivo La Coruña",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Elche",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Espanyol",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Girona",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Granada",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Leganés",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Málaga",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Mallorca",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Osasuna",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Rayo Vallecano",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Real Betis",
+            "kits":[
+              {
+                "code": "ESRB001",
+                "id": "0",
+                "brand": "kappa",
+                "year": "1998/99",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "name": "Real Madrid",
+            "kits":[
+              {
+                "code": "ESRM001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESRM002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESRM003",
+                "id": "2",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Alterna",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESRM004",
+                "id": "3",
+                "brand": "adidas",
+                "year": "2012/13",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESRM005",
+                "id": "4",
+                "brand": "adidas",
+                "year": "2014/15",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESRM006",
+                "id": "5",
+                "brand": "adidas",
+                "year": "2014/15",
+                "kit": "Visita",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESRM007",
+                "id": "6",
+                "brand": "adidas",
+                "year": "2014/15",
+                "kit": "Alterna",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESRM008",
+                "id": "7",
+                "brand": "adidas",
+                "year": "2015/16",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESRM009",
+                "id": "8",
+                "brand": "adidas",
+                "year": "2016/17",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESRM010",
+                "id": "9",
+                "brand": "adidas",
+                "year": "2016/17",
+                "kit": "Visita",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESRM011",
+                "id": "10",
+                "brand": "adidas",
+                "year": "2016/17",
+                "kit": "Alterna",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESRM012",
+                "id": "11",
+                "brand": "adidas",
+                "year": "2017/18",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESRM013",
+                "id": "12",
+                "brand": "adidas",
+                "year": "2017/18",
+                "kit": "Alterna",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESRM014",
+                "id": "13",
+                "brand": "adidas",
+                "year": "2019/20",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ESRM015",
+                "id": "14",
+                "brand": "adidas",
+                "year": "2020/21",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "name": "Real Oviedo",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 23,
+            "name": "Real Sociedad",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 24,
+            "name": "Real Valladolid",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 25,
+            "name": "Real Zagaroza",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 26,
+            "name": "Sevilla",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 27,
+            "name": "Sporting Gijón",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 28,
+            "name": "Tenerife",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 29,
+            "name": "UD Las Palmas",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 30,
+            "name": "Valencia",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 31,
+            "name": "Villarreal",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Estados Unidos",
+        "logo": "us",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Atlanta United",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Austin FC",
+            "kits":[
+              {
+                "code": "USAU001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Charlotte FC",
+            "kits":[
+              {
+                "code": "USCH001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "USCH002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Chicago Fire",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Columbus Crew",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 6,
+            "name": "DC United",
+            "kits":[
+              {
+                "code": "USDC001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "FC Dallas",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Houston Dynamo",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Inter Miami",
+            "kits":[
+              {
+                "code": "USIM001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "USIM002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2023/24",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Los Angeles FC",
+            "kits":[
+              {
+                "code": "USLA001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Los Angeles Galaxy",
+            "kits":[
+              {
+                "code": "USLX001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Minnesota United",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Nashville SC",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 14,
+            "name": "New England Revolution",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 15,
+            "name": "New York City",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 16,
+            "name": "New York Red Bulls (Ex-Metrostars)",
+            "kits":[
+              {
+                "code": "USRB001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Orlando City",
+            "kits":[
+              {
+                "code": "USOR001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Philadelphia Union",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Portland Timbers",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Real Salt Lake",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 21,
+            "name": "Seattle Sounders",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 22,
+            "name": "Sporting Kansas City",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 23,
+            "name": "St. Louis City",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 24,
+            "name": "Tampa Bay Munity",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Finlandia",
+        "logo": "fi",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "name": "Francia",
+        "logo": "fr",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              {
+                "code": "FRNT001",
+                "id": "0",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Entrenamiento",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "FRNT002",
+                "id": "1",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Entrenamiento",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "FRNT003",
+                "id": "2",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "FRNT004",
+                "id": "3",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10,11],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "AJ Auxerre",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Angers SCO",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 3,
+            "name": "AS Monaco",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 4,
+            "name": "FC Metz",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 5,
+            "name": "FC Nantes",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Girondins de Burdeos",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 7,
+            "name": "LOSC Lille",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 8,
+            "name": "OGC Niza",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Olympique de Lyon",
+            "kits":[
+              {
+                "code": "FROL001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7],
+                "imgExt": "jpg"
+              } 
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Olympique de Marsella",
+            "kits":[
+              {
+                "code": "FROM001",
+                "id": "0",
+                "brand": "puma",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              } 
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Paris Saint-Germain",
+            "kits":[
+              {
+                "code": "FRPS001",
+                "id": "0",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Entrenamiento",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "FRPS002",
+                "id": "1",
+                "brand": "jordan",
+                "year": "2022/23",
+                "kit": "Entrenamiento",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "FRPS003",
+                "id": "2",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "FRPS004",
+                "id": "3",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Alterna",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "FRPS005",
+                "id": "4",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Alterna",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "FRPS006",
+                "id": "5",
+                "brand": "jordan",
+                "year": "2022/23",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "FRPS007",
+                "id": "6",
+                "brand": "jordan",
+                "year": "2018/19",
+                "kit": "Alterna",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "FRPS008",
+                "id": "7",
+                "brand": "jordan",
+                "year": "2018/19",
+                "kit": "Alterna",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Racing de Estrasburgo",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 13,
+            "name": "RC Lens",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Saint-Étienne",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Stade de Reims",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Stade Rennes",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Toulouse",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Gales",
+        "logo": "gb-wls",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "Ghana",
+        "logo": "gh",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Grecia",
+        "logo": "gr",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "AEK Atenas",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Athens Kallithea",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Olympiakos",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Panathinaikos",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Guatemala",
+        "logo": "gt",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Honduras",
+        "logo": "hn",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "CD Olimpia",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Motagua",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Inglaterra",
+        "logo": "gb-eng",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              {
+                "code": "ENNT001",
+                "id": "0",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Entrenamiento",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENNT002",
+                "id": "1",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10,11],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Arsenal",
+            "kits":[
+              {
+                "code": "ENAR001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Alterna",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENAR002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10,11],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENAR003",
+                "id": "2",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Aston Villa",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Birmingham City",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Blackburn Rovers",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Blackpool",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Bournemouth",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Brighton and Hove Albion",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Bristol City",
+            "kits":[
+              {
+                "code": "ENBT001",
+                "id": "0",
+                "brand": "oneills",
+                "year": "2023/24",
+                "kit": "Local",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Cardiff City",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Chelsea",
+            "kits":[
+              {
+                "code": "ENCH001",
+                "id": "0",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Entrenamiento",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENCH002",
+                "id": "1",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENCH003",
+                "id": "2",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Alterna",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENCH004",
+                "id": "3",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Coventry City",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Crystal Palace",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Everton",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Fulham",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Hull City",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Leeds United",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Leicester City",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Liverpool",
+            "kits":[
+              {
+                "code": "ENLI001",
+                "id": "0",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENLI002",
+                "id": "1",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENLI003",
+                "id": "2",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Alterna",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENLI004",
+                "id": "3",
+                "brand": "nike",
+                "year": "2023/24",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENLI005",
+                "id": "4",
+                "brand": "nike",
+                "year": "2023",
+                "kit": "x Lebron James",
+                "version": "Fan",
+                "extra": null,
+                "price": 130,
+                "imgs": [0,1,2,3,4,5,6,7],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Manchester City",
+            "kits":[
+              {
+                "code": "ENMC001",
+                "id": "0",
+                "brand": "puma",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Manchester United",
+            "kits":[
+              {
+                "code": "ENMU001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "x Peter Saville",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENMU002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10,11],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENMU003",
+                "id": "2",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10,11],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENMU004",
+                "id": "3",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Alterna",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "name": "Middlesbrough",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 22,
+            "name": "Millwall",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 23,
+            "name": "Newcastle United",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 24,
+            "name": "Norwich City",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 25,
+            "name": "Nottingham Forest",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 26,
+            "name": "Queens Park Rangers",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 27,
+            "name": "Sheffield United",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 28,
+            "name": "Southampton",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 29,
+            "name": "Stoke City",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 30,
+            "name": "Sunderland",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 31,
+            "name": "Swansea City",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 32,
+            "name": "Tottenham Hotspur",
+            "kits":[
+              {
+                "code": "ENTO001",
+                "id": "0",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENTO002",
+                "id": "1",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Alterna",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ENTO003",
+                "id": "2",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "name": "Watford",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 34,
+            "name": "West Bromwich Albion",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 35,
+            "name": "West Ham United",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 36,
+            "name": "Wolverhampton Wanderers",
+            "kits":[
+              {
+                "code": "ENWO001",
+                "id": "0",
+                "brand": "castore",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Irak",
+        "logo": "iq",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Irán",
+        "logo": "ir",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Irlanda",
+        "logo": "ie",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Bohemian FC",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Cork City",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Irlanda del Norte",
+        "logo": "gb-nir",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Islandia",
+        "logo": "is",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Israel",
+        "logo": "il",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Maccabi Haifa",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Maccabi Tel Aviv",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Italia",
+        "logo": "it",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              {
+                "code": "ITNT001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2023",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ITNT002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2023",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10,11],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "AC Milan",
+            "kits":[
+              {
+                "code": "ITMI001",
+                "id": "0",
+                "brand": "puma",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "AS Roma",
+            "kits":[
+              {
+                "code": "ITRO001",
+                "id": "0",
+                "brand": "new balance",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Atalanta",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Bari",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Brescia",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Fiorentina",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Hellas Verona",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Inter de Milán",
+            "kits":[
+              {
+                "code": "ITIM001",
+                "id": "0",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Entrenamiento",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ITIM002",
+                "id": "1",
+                "brand": "nike",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Juventus",
+            "kits":[
+              {
+                "code": "ITJU001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "ITJU002",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Lazio",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Lecce",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Monza",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Napoli",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Parma",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Perugia",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Pescara",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Sampdoria",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Torino",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Udinese",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Venezia",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "name": "Jamaica",
+        "logo": "jm",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Japón",
+        "logo": "jp",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              {
+                "code": "JPNT001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10,11],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "JPNT002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10,11],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "JPNT003",
+                "id": "2",
+                "brand": "adidas",
+                "year": "2023",
+                "kit": "Fantasía",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "JPNT004",
+                "id": "3",
+                "brand": "asics",
+                "year": "1998",
+                "kit": "Portero",
+                "version": "Fan",
+                "extra": "Manga Larga",
+                "price": 140,
+                "imgs": [0,1,2,3,4,5,6],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Cerezo Osaka",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Gamba Osaka",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Hokkaido Consadole Sapporo",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Júbilo Iwata",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Kashima Antlers",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Kawasaki Frontale",
+            "kits":[
+              {
+                "code": "JPKF001",
+                "id": "0",
+                "brand": "puma",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "JPKF002",
+                "id": "1",
+                "brand": "puma",
+                "year": "2022",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Sanfrecce Hiroshima",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Shimizu S-Pulse",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Urawa Red Diamonds",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Vissel Kobe",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Yokohama Marinos",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Kuwait",
+        "logo": "kw",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "name": "Malasia",
+        "logo": "my",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Johor Darul Takzim",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Penang FC",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Selangor FC",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Terengganu FC",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "name": "Malta",
+        "logo": "mt",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "name": "Marruecos",
+        "logo": "ma",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              {
+                "code": "MANT001",
+                "id": "0",
+                "brand": "puma",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "name": "México",
+        "logo": "mx",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              {
+                "code": "MXNT001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "MXNT002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2022",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "América",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Atlas",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Chivas Guadalajara",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Club León",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Cruz Azul",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Juárez",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Monterrey",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Necaxa",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Pachuca",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Puebla",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Pumas UNAM",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Querétaro",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Santos Laguna",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Tigres UANL",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Tijuana",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Toluca",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "name": "Moldavia",
+        "logo": "md",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Sheriff Tiraspol",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "name": "Nigeria",
+        "logo": "ng",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Noruega",
+        "logo": "no",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Países Bajos",
+        "logo": "nl",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              {
+                "code": "NLNT001",
+                "id": "0",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Entrenamiento",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "NLNT002",
+                "id": "1",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "NLNT003",
+                "id": "2",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Ajax",
+            "kits":[
+              {
+                "code": "NLAJ001",
+                "id": "0",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "NLAJ002",
+                "id": "1",
+                "brand": "adidas",
+                "year": "2022/23",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Feyenoord",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "name": "Paraguay",
+        "logo": "py",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Cerro Porteño",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Olimpia",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Perú",
+        "logo": "pe",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "ADT",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Alianza Atlético Sullana",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Alianza Lima",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Atlético Grau",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Binacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Cantolao",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Carlos Mannucci",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 8,
+            "name": "César Vallejo",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Cienciano",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Cusco FC",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Deportivo Garcilazo",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Deportivo Municipal",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Melgar",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Sport Boys",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Sport Huancayo",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Sporting Cristal",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Unión Comercio",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Universitario",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 19,
+            "name": "UTC Cajamarca",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "name": "Polonia",
+        "logo": "pl",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "name": "Portugal",
+        "logo": "pt",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              {
+                "code": "PTNT001",
+                "id": "0",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Entrenamiento",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "PTNT002",
+                "id": "1",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Visita",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              },
+              {
+                "code": "PTNT003",
+                "id": "2",
+                "brand": "nike",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Benfica",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Porto",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Sporting Braga",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Sporting Lisboa",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "name": "República Checa",
+        "logo": "cz",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Slavia Praga",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Sparta Praga",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "name": "Rumania",
+        "logo": "ro",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "name": "Rusia",
+        "logo": "ru",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Zenit de San Petersburgo",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "San Marino",
+        "logo": "sm",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Senegal",
+        "logo": "sn",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Serbia",
+        "logo": "rs",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "name": "Sudáfrica",
+        "logo": "za",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Kaizer Chiefs",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Orlando Pirates",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "name": "Suecia",
+        "logo": "se",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "AIK Estocolmo",
+            "kits":[
+              {
+                "code": "SEAI001",
+                "id": "0",
+                "brand": "nike",
+                "year": "2023",
+                "kit": "Especial",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "name": "Suiza",
+        "logo": "ch",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "name": "Tailandia",
+        "logo": "th",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "name": "Túnez",
+        "logo": "tn",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "name": "Turquía",
+        "logo": "tr",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Beşiktaş",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Fenerbahçe",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Galatasaray",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Trabzonspor",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "name": "Ucrania",
+        "logo": "ua",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Dinamo de Kiev",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Shakhtar Donetsk",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "name": "Uruguay",
+        "logo": "uy",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              {
+                "code": "UYNT001",
+                "id": "0",
+                "brand": "puma",
+                "year": "2022",
+                "kit": "Local",
+                "version": "Jugador",
+                "extra": null,
+                "price": 150,
+                "imgs": [0,1,2,3,4,5,6,7,8,9,10],
+                "imgExt": "jpg"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Nacional",
+            "kits":[
+              
+
+              
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Peñarol",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "name": "Venezuela",
+        "logo": "ve",
+        "teams": [
+          {
+            "id": 0,
+            "name": "Selección Nacional",
+            "kits":[
+              
+
+              
+            ]
+          }
+        ]
+      }
+    ],
+    "brands":[
+      {
+        "id":0,
+        "name":"Adidas",
+        "logo":"adidas"
+      },
+      {
+        "id":1,
+        "name":"Asics",
+        "logo":"asics"
+      },
+      {
+        "id":2,
+        "name":"Castore",
+        "logo":"castore"
+      },
+      {
+        "id":3,
+        "name":"Hummel",
+        "logo":"hummel"
+      },
+      {
+        "id":4,
+        "name":"Jordan",
+        "logo":"jordan"
+      },
+      {
+        "id":5,
+        "name":"Kappa",
+        "logo":"kappa"
+      },
+      {
+        "id":6,
+        "name":"Le Coq Sportif",
+        "logo":"le_coq"
+      },
+      {
+        "id":7,
+        "name":"Marathon",
+        "logo":"marathon"
+      },
+      {
+        "id":8,
+        "name":"New Balance",
+        "logo":"new_balance"
+      },
+      {
+        "id":9,
+        "name":"Nike",
+        "logo":"nike"
+      },
+      {
+        "id":10,
+        "name":"One All Sports",
+        "logo":"one"
+      },
+      {
+        "id":11,
+        "name":"Puma",
+        "logo":"puma"
+      },
+      {
+        "id":12,
+        "name":"Reebok",
+        "logo":"reebok"
+      },
+      {
+        "id":13,
+        "name":"Umbro",
+        "logo":"umbro"
+      },
+      {
+        "id":14,
+        "name":"Under Armour",
+        "logo":"under_armour"
+      },
+      {
+        "id":15,
+        "name":"Duneus",
+        "logo":"duneus"
+      },
+      {
+        "id":16,
+        "name":"Otros",
+        "logo":"otros"
+      },
+      {
+        "id":17,
+        "name":"Volt Sport",
+        "logo":"volt_sport"
+      }
+    ]
+  }

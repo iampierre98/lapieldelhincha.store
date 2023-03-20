@@ -1,0 +1,19 @@
+DENT - Selección Nacional
+DEBL - Bayer 04 Leverkusen
+DEBM - Bayern Múnich
+DEBD - Borussia Dortmund
+DEBM - Borussia Monchengladbach
+DECO - Colonia
+DEDA - Darmstadt 98
+DEFR - Eintracht Frankfurt
+DEHA - Hamburgo
+DEHB - Hertha Berlín
+DEHO - Hoffenheim
+DEMA - Mainz 05
+DERB - RB Leipzig
+DESC - Schalke 04
+DEST - Stuttgart
+DESP - St. Pauli
+DEUB - Unión Berlín
+DEWB - Werder Bremen
+DEWO - Wolfsburgo
