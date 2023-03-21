@@ -1,0 +1,22 @@
+BRNT - Selección Nacional
+BRAE - América Mineiro
+BRAM - Atlético Mineiro
+BRAV - Avaí
+BRBA - Bahía
+BRBO - Botafogo
+BRCE - Ceará
+BRCH - Chapecoense
+BRCO - Corinthians
+BRCR - Cruzeiro
+BRFL - Flamengo
+BRFU - Fluminense
+BRFO - Fortaleza
+BRGR - Gremio
+BRIN - Internacional
+BRPA - Palmeiras
+BRRB - Red Bull Bragantino
+RBSA - Santos
+BRSP - Sao Paulo
+BRSC - Santa Cruz
+BRSR - Sport Recife
+BRVG - Vasco da Gama

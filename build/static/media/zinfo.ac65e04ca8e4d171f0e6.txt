@@ -1,0 +1,5 @@
+TRNT - Selección Nacional
+TRBE - Beşiktaş
+TRFE - Fenerbahçe
+TRGA - Galatasaray
+TRTR - Trabzonspor
