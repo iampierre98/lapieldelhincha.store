@@ -2,7 +2,7 @@
   "name": "test01",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://iampierre98.github.io/lapieldelhincha.github.io",
+  "homepage": "https://iampierre98.github.io/lapieldelhincha.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
