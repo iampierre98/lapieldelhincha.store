@@ -1,6 +1,0 @@
-CLNT - Selección Nacional
-CLCL - Colo Colo
-CLEV - Everton
-CLPA - Palestino
-CLCA - Universidad Católica
-CLUC - Universidad de Chile
