@@ -14,3 +14,7 @@ Website created by Pierre Vicente (iamPierre98)
 # Updates
 ## **v1.0.0 - 19/04/23**
 Added 424 jersers
+
+## **v1.0.1 - 24/04/23**
+Added better loading times system
+No jerseys added
